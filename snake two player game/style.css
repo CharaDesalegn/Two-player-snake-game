@@ -1,0 +1,27 @@
+body{
+    color: red;
+    margin: 0px;
+    background-color: #1C1C1C;
+}
+canvas{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    border: solid red;
+}
+h1{
+    padding: 0px;
+    margin: 0px;
+    margin-left: 60px;
+    margin-right: 70px;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+#p1{
+    color: rgb(117, 254, 117);
+}
+#p2{
+    color: rgb(78, 119, 242);
+}
